@@ -25,7 +25,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
 "github:MorpheApp/morphe-patches" = []
 
 [YouTube-Experimental]
-enabled = false
+enabled = true
 brand = "morphe-dev"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 version = "exp"
