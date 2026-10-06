@@ -74,7 +74,7 @@ patcher-args = "-e 'Theme' -Oamoled=true"
 "github:crimera/piko" = []
 
 [Google-Photos]
-enabled = false
+enabled = true
 brand = "rushi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 changelog-keywords = ["Photos"]
