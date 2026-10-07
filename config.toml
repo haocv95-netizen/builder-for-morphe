@@ -83,7 +83,7 @@ changelog-keywords = ["Photos"]
 "github:rushiranpise/morphe-patches" = []
 
 [Messenger]
-enabled = false
+enabled = true
 brand = "rushi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-technologies-llc/messenger/"
 arch = "both"
