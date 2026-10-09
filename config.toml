@@ -229,7 +229,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/viber-media-s-a-r-l/viber/"
 
 [Zalo]
 enabled = true
-brand = "zalo"
+brand = "morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/zalo-group/zalo/"
 
 [Zalo.patches]
