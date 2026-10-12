@@ -64,7 +64,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 "github:crimera/piko" = ["Browse tweet object", "Dynamic color"]
 
 [Instagram]
-enabled = false
+enabled = true
 brand = "piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 arch = "arm64-v8a"
